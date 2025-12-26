@@ -3,7 +3,8 @@ Tests for text preprocessing utilities - participants can enhance.
 """
 
 import pytest
-from src.preprocessing.text_cleaner import TextCleaner
+from preprocessing.text_cleaner import TextCleaner
+
 
 
 class TestTextCleaner:
